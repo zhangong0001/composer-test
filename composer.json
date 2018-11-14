@@ -1,5 +1,5 @@
 {
-    "name": "long/composer-test",
+    "name": "longzane/composer-test",
     "description": "A test composer package",
     "require": {
         "php": ">=7.0.0"
