@@ -1,0 +1,20 @@
+{
+    "name": "long/composer-test",
+    "description": "A test composer package",
+    "require": {
+        "php": ">=7.0.0"
+    },
+    "authors": [
+        {
+            "name": "Zane Zhang",
+            "email": "zhangong0001@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "autoload": {
+        "psr-4": {
+            "Zane\\Test\\": "src/Zane/Test"
+        }
+    }
+}
+
